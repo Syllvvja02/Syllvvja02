@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Syllvvja02
 - 👀 I’m interested in Maths
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Typescript & Saas
 - 📫 How to reach me: mikolajczykdrazeksylwia@gmail.com
 
 <!---
